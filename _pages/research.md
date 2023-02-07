@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Microbiome and host co-factors in Atopic Dermatitis
+Microbiome and host co-factors in atopic dermatitis
 ------
 Patients with atopic dermatitis (AD) usually have a reduced microbial diversity and overabundance of Staphylococcus aureus on their skin. We found that host cofactors, like IgE levels and race, may be key to the relation between microbiome composition and AD severity. And what does "low diversity" actually mean? Check out our full answer as [published in JEADV](https://onlinelibrary.wiley.com/doi/full/10.1111/jdv.18776) and corresponding [data analyses in R on Github](https://github.com/LuiseRauer/Anti-IL22-baseline). 
 
