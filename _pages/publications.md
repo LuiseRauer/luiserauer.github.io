@@ -12,12 +12,10 @@ Peer-reviewed
 Blog posts
 ------
 * Rauer L. [Microbiome (k)nights](https://www.open-bio.org/2022/12/29/microbiome-knights/). OpenBio. https://www.open-bio.org/2022/12/29/microbiome-knights/.
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
