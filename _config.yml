@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Luise Rauer"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Luise Rauer"
-description              : &description "PhD student combining bioinformatics and statistics in microbiome research"
+description              : &description "Computational biologist in microbiome research - PhD student combining bioinformatics, statistics, and environmental health"
 url                      : https://luiserauer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luiserauer.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luise Rauer"
   avatar           : "Profile_pic.jpeg"
-  bio              : "Bioinformatician in microbiome research"
+  bio              : "Computational biologist in microbiome research"
   location         : "Augsburg, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
